@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-[Releases](https://github.com/supershopcover/image-gallery/releases/latest) 에서 `이미지 모아보기-Windows-x64.zip` 을 받아 압축을 풀고 `이미지 모아보기.exe` 를 실행하세요. 설치 과정은 없습니다.
+[Releases](https://github.com/supershopcover/image-gallery/releases/latest) 에서 `image-gallery-<버전>-Windows-x64.zip` 을 받아 압축을 풀고 `이미지 모아보기.exe` 를 실행하세요. 설치 과정은 없습니다.
 
 처음 실행할 때 Windows SmartScreen 이 "알 수 없는 게시자" 경고를 띄울 수 있습니다. **추가 정보 → 실행**을 누르면 됩니다. 코드 서명을 하지 않은 개인 배포라 나오는 경고입니다.
 
